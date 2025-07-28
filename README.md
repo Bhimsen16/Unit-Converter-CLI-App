@@ -25,9 +25,9 @@ Perfect for quick calculations directly from the terminal.
 ---
 
 ## 🧪 Sample Output
-╔═════════════════════════════╗
-║ UNIT CONVERTER CLI ║
-╚═════════════════════════════╝
++-----------------------------+
+|      UNIT CONVERTER CLI      |
++-----------------------------+
 
 Categories: 
 1. Length
@@ -55,9 +55,9 @@ Choose conversion: 2
 Enter value in feet(ft): back
 Back to main menu...
 
-╔═════════════════════════════╗
-║ UNIT CONVERTER CLI ║
-╚═════════════════════════════╝
++-----------------------------+
+|      UNIT CONVERTER CLI      |
++-----------------------------+
 
 Categories:
 1. Length
