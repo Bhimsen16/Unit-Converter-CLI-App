@@ -28,6 +28,7 @@ Perfect for quick calculations directly from the terminal.
 ╔═════════════════════════════╗
 <br>
 ║     UNIT CONVERTER CLI      ║
+<br>
 ╚═════════════════════════════╝
 
 Categories: 
@@ -63,6 +64,7 @@ Back to main menu...
 ╔═════════════════════════════╗
 <br>
 ║     UNIT CONVERTER CLI      ║
+<br>
 ╚═════════════════════════════╝
 
 Categories:
