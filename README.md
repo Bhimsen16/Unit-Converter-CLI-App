@@ -25,9 +25,9 @@ Perfect for quick calculations directly from the terminal.
 ---
 
 ## 🧪 Sample Output
-+-----------------------------+
-|      UNIT CONVERTER CLI      |
-+-----------------------------+
+╔═════════════════════════════╗
+║     UNIT CONVERTER CLI      ║
+╚═════════════════════════════╝
 
 Categories: 
 1. Length
@@ -46,18 +46,22 @@ Tip: Please choose a category or type 'back' to return to main menu.
 --- Length Conversion ---
 
 Choose conversion: 1
+<br>
 Enter value in inches(in): 12
+<br>
 Result: 1.0ft
 
 --- Length Conversion ---
 
 Choose conversion: 2
+<br>
 Enter value in feet(ft): back
+<br>
 Back to main menu...
 
-+-----------------------------+
-|      UNIT CONVERTER CLI      |
-+-----------------------------+
+╔═════════════════════════════╗
+║     UNIT CONVERTER CLI      ║
+╚═════════════════════════════╝
 
 Categories:
 1. Length
