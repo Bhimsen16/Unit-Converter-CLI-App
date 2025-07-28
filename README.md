@@ -26,7 +26,7 @@ Perfect for quick calculations directly from the terminal.
 
 ## 🧪 Sample Output
 ╔═════════════════════════════╗
-║     UNIT CONVERTER CLI      ║
+║ UNIT CONVERTER CLI ║
 ╚═════════════════════════════╝
 
 Categories: 
@@ -56,7 +56,7 @@ Enter value in feet(ft): back
 Back to main menu...
 
 ╔═════════════════════════════╗
-║     UNIT CONVERTER CLI      ║
+║ UNIT CONVERTER CLI ║
 ╚═════════════════════════════╝
 
 Categories:
